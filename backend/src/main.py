@@ -13,7 +13,7 @@ def get_db_connection():
 		host = 'localhost',
 		user = 'root',
 		password = '',
-		database = 'pwa5'
+		database = 'mydb'
 	)
 
 @staticmethod
